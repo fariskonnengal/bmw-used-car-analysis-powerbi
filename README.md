@@ -10,7 +10,7 @@ This Power BI dashboard analyzes BMW used car sales data to identify pricing tre
 
 ## Dashboard Preview
 
-![Dashboard](BMW_Dashboard.png)
+![Dashboard](BMW Dashboard.png)
 
 ## Key Insights
 
